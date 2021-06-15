@@ -1,0 +1,23 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "main": "animation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayankMaheshwar/Frontentmasters.git"
+  },
+  "author": "Mayank Maheshwari <mayank.maheshwari625@gmail.com> (https://mayankmaheshwar.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MayankMaheshwar/Frontentmasters/issues"
+  },
+  "homepage": "https://github.com/MayankMaheshwar/Frontentmasters#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "popmotion": "^9.3.6"
+  }
+}
